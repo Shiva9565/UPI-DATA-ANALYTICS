@@ -21,7 +21,7 @@ This project focuses on analyzing transaction data using Python, SQL, and Tablea
 )
 
 ### Video Demonstration
-[![Watch the Demo](https://github.com/user-attachments/assets/db28da8d-6d7d-4072-a428-b4466e882317)
+[Watch the Demo](https://github.com/user-attachments/assets/db28da8d-6d7d-4072-a428-b4466e882317)
 
 
 ## Getting Started
