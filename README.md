@@ -16,7 +16,8 @@ This project focuses on analyzing transaction data using Python, SQL, and Tablea
 - **Tableau** for data visualization and dashboard development.
 
 ## Project Demo
-![Dashboard Preview](<img width="1229" alt="Screenshot 2025-03-09 at 12 17 49 PM" src="https://github.com/user-attachments/assets/bd047d49-4f1e-4413-96b4-71d9d9f81564" />
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/f6fc8c50-1aa3-4db6-bcaf-3c7178b9fe31)
+
 )
 
 ### Video Demonstration
