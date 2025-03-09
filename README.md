@@ -16,10 +16,12 @@ This project focuses on analyzing transaction data using Python, SQL, and Tablea
 - **Tableau** for data visualization and dashboard development.
 
 ## Project Demo
-![Dashboard Preview](path_to_your_image.png)
+![Dashboard Preview](<img width="1229" alt="Screenshot 2025-03-09 at 12 17 49 PM" src="https://github.com/user-attachments/assets/bd047d49-4f1e-4413-96b4-71d9d9f81564" />
+)
 
 ### Video Demonstration
-[![Watch the Demo](path_to_your_video_thumbnail.png)](path_to_your_video.mp4)
+[![Watch the Demo](https://github.com/user-attachments/assets/db28da8d-6d7d-4072-a428-b4466e882317)
+
 
 ## Getting Started
 ### Prerequisites
@@ -57,5 +59,5 @@ The dataset includes anonymized transaction records with attributes such as:
 If you'd like to contribute, feel free to fork this repository and submit pull requests.
 
 ## Contact
-For queries or collaboration, reach out via [your email/LinkedIn].
+For queries or collaboration, reach out via [hardikmi.80040@gmail.com/www.linkedin.com/in/shiva8874].
 
